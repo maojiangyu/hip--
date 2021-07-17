@@ -51,8 +51,8 @@
 						        //获取临时登录凭证code
 						        this.Code = res.code;
 						        //获取openid，session_key
-						        let appid = "wx2d6f34fa4034778d"  //需替换
-						        let secret = "4fefc57c42a25878476cccd7426dde5b"  //需替换
+						        let appid = "***********"  //开发者appid
+						        let secret = "**********"  //需替换
 						        let url = 'https://api.weixin.qq.com/sns/jscode2session?appid=' + appid + '&secret=' + secret +
 						            '&js_code=' +
 						            this.Code + '&grant_type=authorization_code';
