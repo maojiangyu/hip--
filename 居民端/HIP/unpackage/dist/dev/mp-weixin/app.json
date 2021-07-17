@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/UserLogin/UserLogin",
+    "pages/UserIndex/UserIndex",
+    "pages/UserGetMedicine/UserGetMedicine",
+    "pages/SeeMedicine/SeeMedicine",
+    "pages/editUserInfo/editUserInfo",
+    "pages/doctorList/doctorList"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

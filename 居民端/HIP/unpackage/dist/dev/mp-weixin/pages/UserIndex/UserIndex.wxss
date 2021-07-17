@@ -1,0 +1,23 @@
+
+.userInfo.data-v-6ee520d6{
+	background-color: #a7e1a9;
+	height: 200rpx;
+	width: 98%;
+	border-radius: 10rpx;
+	margin-left: 1%;
+}
+.doctorInfo.data-v-6ee520d6{
+	background-color: #FFFFFF;
+	height: 200rpx;
+	width: 98%;
+	border-radius: 10rpx;
+	margin-left: 1%;
+}
+.doctorInfo2.data-v-6ee520d6{
+	background-color: #FFFFFF;
+	height: 100rpx;
+	width: 98%;
+	border-radius: 10rpx;
+	margin-left: 1%;
+}
+

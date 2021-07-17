@@ -1,0 +1,9 @@
+
+.doctorInfo{
+	background-color: #FFFFFF;
+	height: 200rpx;
+	width: 98%;
+	border-radius: 10rpx;
+	margin-left: 1%;
+}
+

@@ -1,0 +1,1 @@
+<view style="text-align:center;margin-top:200rpx;"><u-image vue-id="1e469342-1" width="100%" height="300rpx" src="{{src}}" bind:__l="__l"></u-image><button style="width:80%;margin-top:5%;" type="primary" data-event-opts="{{[['tap',[['login',['$event']]]]]}}" bindtap="__e">登录</button></view>
