@@ -1,0 +1,36 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/testPicture/testPicture",
+          "pathName": "pages/testPicture/testPicture",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/UserLogin/UserLogin",
+          "pathName": "pages/UserLogin/UserLogin",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/SeeMedicine/SeeMedicine",
+          "pathName": "pages/SeeMedicine/SeeMedicine",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
